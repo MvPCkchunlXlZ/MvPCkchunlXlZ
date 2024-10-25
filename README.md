@@ -8,18 +8,18 @@
 &nbsp;
 
 <p align="center">
-I am a passionate Software and Automation Developer dedicated to advancing robotics and automation technology. I aspire to bring transformative projects to life and build a lasting impact in the field of engineering. I’m on a journey to create innovative solutions that inspire, aiming for a career as impactful as Elon Musk’s!
+I am a passionate Software and Automation Developer dedicated to advancing robotics and automation technology. I aspire to bring transformative projects to life and build a lasting impact in the field of engineering. I’m on a journey to create innovative solutions that inspire, aiming for a career as impactful as <mark>Elon Musk’s !<mark>
 </p>
 
 &nbsp;
 ## About Me 🌟
-- 👨‍🎓 Currently pursuing a Bachelor of Mechatronic Engineering with Honors at Universiti Sains Malaysia.
+- 👨‍🎓 Currently pursuing a `Bachelor of Mechatronic Engineering with Honors` at [Universiti Sains Malaysia](https://www.usm.my/my-usm/campuses/engineering-campus).
 
-- 🤖 Actively involved in various robotics competitions like ROBOCON and UROCK, participating in both Software and Mechanical Departments.
+- 🤖 Actively involved in various robotics competitions like ROBOCON and UROCK, participating in both `Software` and `Mechanical Departments`.
 
-- 📚 Completed STPM at High School Klang.
+- 📚 Completed STPM at [High School Klang](https://en.wikipedia.org/wiki/Klang_High_School).
 
-- 🏫 Finished SPM at SMJK Kwang Hua.
+- 🏫 Finished SPM at [SMJK Kwang Hua](https://www.smjk.edu.my/school/index.php?schid=4).
   
 &nbsp;
 
