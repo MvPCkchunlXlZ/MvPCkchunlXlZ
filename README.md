@@ -83,6 +83,7 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white" />
 </div>
+&nbsp;
 
 ## 🌟 Featured Projects
 ### 2024: 
