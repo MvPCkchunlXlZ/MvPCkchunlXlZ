@@ -94,22 +94,25 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
 
 ## 🌟 Featured Projects
 ### 2024: 
+- <div style="display: flex; align-items: flex-start;">
 
-<div style="display: flex; align-items: flex-start;">
 
   <div style="flex: 1; padding-right: 20px;">
-    <h3>**Autonomous Pick And Place System** <img src="https://img.shields.io/badge/Western%20Digital-03234B?style=for-the-badge&logo=westerndigital&logoColor=white" /></h3>
+    <h3>Autonomous Pick And Place System <img src="https://img.shields.io/badge/Western%20Digital-03234B?style=for-the-badge&logo=westerndigital&logoColor=white" /></h3>
+   </div>
+   
+  <div style="flex: 1;">
+    <img src="https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/raw/main/1672248-universal-robots.png" alt="Universal Robots" width="300"/>
+  </div>
+  
+   <div style="flex: 1; padding-right: 20px;">
     <p>Using Jetson Orin AGX as processor to operate UR10 with ROS 2 Humble with machine vision using Intel RealSense to do the autonomous Pick And Place in the WD FG production site.</p>
     <ul>
       <li>Automated carton weighing and labelling</li>
       <li>Label checking and classified via camera vision</li>
     </ul>
   </div>
-
-  <div style="flex: 1;">
-    <img src="https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/raw/main/1672248-universal-robots.png" alt="Universal Robots" width="300"/>
-  </div>
-
+  
 </div>
 
 - **Innoworks 2024 (Advantech)**
