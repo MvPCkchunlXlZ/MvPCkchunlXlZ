@@ -32,6 +32,7 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
     <img src="https://img.shields.io/badge/Video%20Editing-FF4500?style=for-the-badge&logo=videoediting&logoColor=white" />
     <img src="https://img.shields.io/badge/3D%20Animation-8A2BE2?style=for-the-badge&logo=3danimation&logoColor=white" />
     <img src="https://img.shields.io/badge/Jetson%20Platform-00FF00?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E4C92?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </div>
 &nbsp;
 
