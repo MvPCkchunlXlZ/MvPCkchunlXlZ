@@ -35,7 +35,7 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
     <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E4C92?style=for-the-badge&logo=unrealengine&logoColor=white" />
     <img src="https://img.shields.io/badge/ROS2-40C4FF?style=for-the-badge&logo=ros&logoColor=white" />
     <img src="https://img.shields.io/badge/Universal%20Robots-004B87?style=for-the-badge&logo=universal-robots&logoColor=white" />
-    <img src="https://img.shields.io/badge/MoveIt%21-2C74B3?style=for-the-badge&logo=Moveit2!&logoColor=white" />
+    <img src="https://img.shields.io/badge/MoveIt2%21-2C74B3?style=for-the-badge&logo=Moveit!&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/VirtualBox-183B5A?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
