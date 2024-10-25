@@ -26,6 +26,7 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
 ## 🛠️ Skills
 &nbsp;
 <div align="center">
+    <img src="https://img.shields.io/badge/Github-00A400?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Embedded%20System-007ACC?style=for-the-badge&logo=embedded&logoColor=white" />
     <img src="https://img.shields.io/badge/Control%20System-FF0000?style=for-the-badge&logo=controlsystem&logoColor=white" />
     <img src="https://img.shields.io/badge/PID%20Control-008000?style=for-the-badge&logo=pidcontrol&logoColor=white" />
