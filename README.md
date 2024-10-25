@@ -92,6 +92,9 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
 
 ## 🌟 Featured Projects
 ### 2024: 
+- **Autonomaus Pick And Place System <img src="https://img.shields.io/badge/Western%20Digital-03234B?style=for-the-badge&logo=westerndigital&logoColor=white" />**
+  - Using Jetson Orin AGX as processor to operate UR10 with ROS 2 Humble with machine vision using Intel RealSense to do the autonomause Pick And Place in the WD FG production site.
+    
 - **Innoworks 2024 (Advantech)**
   - Title: AI GREENTECH
   - System: Plant Monitoring with IOT Dashboard System
