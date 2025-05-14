@@ -115,25 +115,42 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
   
 </div>
 
-- **Innoworks 2024 (Advantech)**
-  - Title: AI GREENTECH
-  - System: Plant Monitoring with IOT Dashboard System
-    - Plant Grow Monitoring
-    - Weather Forecast Predict Monitoring
-    - Plant Disease monitoring
-      
-- **Forest Rescue Drone Design & Simulation**
+ # 🌿 AI Greentech - Smart Farming System
+  - **Innoworks 2024 | Advantech & USM Collaboration**
+    *IoT + AI solution with Gemini integration for precision agriculture*
+    [![Demo Video](https://img.youtube.com/vi/AM-Riipd0Y0/0.jpg)](https://youtu.be/AM-Riipd0Y0)
+
+  - ## ✨ Key Features
+      - **AI Disease Detection** (85.2% accuracy CNN model)
+      - **Gemini-Powered Farmer Assistant** (Local ChatGPT for agriculture)
+      - **Smart Irrigation** (30% water savings)
+      - **Real-time Soil Monitoring** (NPK/pH/temperature)
+
+  - ## 🛠️ Technical Stack
+    | Component       | Technologies Used |
+    |-----------------|-------------------|
+    | **AI/ML Core**  | TensorFlow Lite, Gemini API, OpenCV, YOLOv8 |
+    | **Edge Compute**| ADVANTECH MIC-770 PC, ONNX Runtime |
+    | **IoT Sensors** | NPK Soil Sensor, ADAM-4561, Capacitive Moisture |
+    | **Cloud**       | Advantech WISE-Cloud|
+    | **Embedded**    | Arduino (C++), FreeRTOS|
+    
+# Forest Rescue Drone Design & Simulation 
+[![Demo Video](https://img.youtube.com/vi/G18o47xfCUs/0.jpg)](https://youtu.be/G18o47xfCUs)
   - Design: Created a drone prototype using SolidWorks.
   - Simulation: Simulated drone movements in Unreal Engine 5.
   - Testing: Conducted real-time application testing.
 
 ### 2022 – Present: 
 - **ROBOCON Malaysia (Software Department)**
-  - Robot Control System: Developed omni-wheel robot movement using PID control with MATLAB.
-  - Embedded Systems: Built an ARM-based embedded system with FreeRTOS architecture.
-  - Mechanical control System: Develop the forward and inverse kinematics for the mechanicals joints actuators.
-  - Image Processing: Implemented Python for image processing on Jetson Nano & Raspberry Pi.
-  - Machine Learning: Trained models for object detection and distance estimation.
+    - **Robot Control System:** Developed omni-wheel and swerve drive navigation systems with real-time PID control for precise movement and heading stabilization.
+    - **Brushless Motor Integration:** Integrated high-performance brushless motors (e.g., N5065, RoboMaster C3508, M2006) with custom PID tuning for velocity and position control.
+    - **Embedded Systems:** Built ARM-based embedded systems using FreeRTOS, supporting modular motor control, sensor fusion, and CAN communication.
+    - **Kinematics:** Designed and implemented both forward and inverse kinematics algorithms for multi-joint mechanical actuators, including a custom 3-DOF Stewart platform.
+    - **Stewart Platform Control:** Developed embedded algorithms to control a 3-DOF Stewart platform for X, Y translation and yaw rotation, used for precise directional targeting (e.g., basketball shooting robot).
+    - **Image Processing:** Deployed Python-based vision systems on Jetson Nano and Raspberry Pi for color tracking, line following, and object identification.
+    - **Machine Learning:** Trained and deployed ML models for object detection, classification, and distance estimation in autonomous tasks.
+    - **Robot GUI:** Developed a graphical user interface (GUI) for real-time control, diagnostics, and telemetry visualization of the robot system.
 
 - **ROBOCON Malaysia (Mechanical Department)**
   - Robot Design: Developed robot designs in SolidWorks for CNC, laser cutting, and 3D printing.
