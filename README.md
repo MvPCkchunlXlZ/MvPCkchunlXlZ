@@ -131,7 +131,7 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
 | Vision     | YOLOv8 (Ultralytics) + OpenCV |
 | Control    | ✅ Manual: PS5 DualSense via `teleop_twist_joy`<br>✅ Autonomous: Navigation goals + vision-based pick/place |
 | GUI        | PyQt5 Interface |
-| Hardware   | TurtleBot3 Waffle Pi + OpenMANIPULATOR-X + Intel RealSense |
+| Hardware   | TurtleBot3 Waffle Pi + OpenMANIPULATOR-X + Pi Camera |
 
 ---
 
