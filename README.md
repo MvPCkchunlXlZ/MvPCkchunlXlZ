@@ -93,6 +93,57 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
 &nbsp;
 
 ## 🌟 Featured Projects
+### 🎓 Final Year Project (2025): Adaptive Pick & Place System for Efficient Room Sorting & Organization
+
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
+    <h3>🏠 Indoor Object Sorting Robot</h3>
+    <p>
+      An intelligent robot system that autonomously navigates, detects, classifies, and places objects to their designated positions using <strong>ROS 2 Humble</strong>, <strong>YOLOv8</strong> vision model, and <strong>PS5 Controller</strong> override support.
+    </p>
+    <ul>
+      <li>🗺️ SLAM-based indoor navigation with dynamic obstacle avoidance</li>
+      <li>🎯 Vision-based object alignment before pick action</li>
+      <li>🤖 OpenMANIPULATOR-X arm control via trajectory and gripper actions</li>
+      <li>🧠 YOLOv8 for multi-class object detection & classification</li>
+      <li>🖥️ PyQt5 GUI for remote SSH, vision display, and task orchestration</li>
+      <li>🎮 PS5 controller for teleoperation with L2/R2 rotation & joystick movement</li>
+    </ul>
+    <p>
+      🔗 <strong>YouTube Demo</strong>: <a href="https://youtu.be/7v5JWxfYocM?si=LzgqbY0GK0-IQmTS" target="_blank">Watch Here</a>
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/raw/main/robot-demo-thumbnail.jpg" alt="FYP Robot Thumbnail" width="100%">
+  </div>
+
+</div>
+
+---
+
+### 🔧 Technical Stack
+
+| Module | Technology |
+|--------|------------|
+| OS     | Ubuntu Server 22.04 |
+| Framework | ROS 2 Humble |
+| Vision | YOLOv8 + OpenCV |
+| Control | PS5 DualSense + teleop_twist_joy |
+| GUI    | PyQt5 |
+| Hardware | TurtleBot3 Waffle Pi + OpenMANIPULATOR-X + Intel RealSense |
+
+---
+
+### 📌 Highlights
+
+- ✅ Custom machine vision alignment before pick (VisionAlignment node)
+- ✅ Automatic scene capture & YOLOv8 result saving
+- ✅ Full-body movement with joystick + rotation via L2/R2
+- ✅ Object-dependent gripping force based on label class
+- ✅ Cycle automation + repeat logic built into GUI interface
+
 ### 2024: 
 - <div style="display: flex; align-items: flex-start;">
 
