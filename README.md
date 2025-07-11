@@ -191,8 +191,9 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
   - Simulation: Simulated drone movements in Unreal Engine 5.
   - Testing: Conducted real-time application testing.
 
-### 2022 – Present: 
-![Robocon 2025](https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/blob/main/1672248-universal-robots.png)
+### 2022 – 2025: 
+<img src="https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/raw/main/WhatsApp%20Image%202025-06-20%20at%2017.30.38_bbfb783b.jpg" alt="Robocon 2025" width="600" />
+
 - **ROBOCON Malaysia (Software Department)**
     - **Robot Control System:** Developed omni-wheel and swerve drive navigation systems with real-time PID control for precise movement and heading stabilization.
     - **Brushless Motor Integration:** Integrated high-performance brushless motors (e.g., N5065, RoboMaster C3508, M2006) with custom PID tuning for velocity and position control.
