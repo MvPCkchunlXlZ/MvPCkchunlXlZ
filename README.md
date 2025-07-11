@@ -104,19 +104,17 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
     </p>
     <ul>
       <li>🗺️ SLAM-based indoor navigation with dynamic obstacle avoidance</li>
-      <li>🎯 Vision-based object alignment before pick action</li>
-      <li>🤖 OpenMANIPULATOR-X arm control via trajectory and gripper actions</li>
-      <li>🧠 YOLOv8 for multi-class object detection & classification</li>
-      <li>🖥️ PyQt5 GUI for remote SSH, vision display, and task orchestration</li>
-      <li>🎮 PS5 controller for teleoperation with L2/R2 rotation & joystick movement</li>
+      <li>🎯 Machine vision alignment before pick action using YOLOv8</li>
+      <li>🤖 OpenMANIPULATOR-X arm control via trajectory & gripper actions</li>
+      <li>🧠 Object classification via YOLOv8 with adaptive gripping force</li>
+      <li>🖥️ PyQt5 GUI for remote SSH, vision feedback, and sequence control</li>
+      <li>🎮 PS5 controller for manual override with joystick navigation and L2/R2 rotation</li>
+      <li>🔁 Autonomous mode for continuous pick-place cycles based on real-time vision</li>
     </ul>
     <p>
-      🔗 <strong>YouTube Demo</strong>: <a href="https://youtu.be/7v5JWxfYocM?si=LzgqbY0GK0-IQmTS" target="_blank">Watch Here</a>
+      🔗  <a href="https://youtu.be/7v5JWxfYocM?si=25OJSxt4aBnjpLi7" target="_blank">
+    <img src="https://img.youtube.com/vi/7v5JWxfYocM/maxresdefault.jpg" alt="Adaptive Pick and Place System" width="480"/>
     </p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/raw/main/robot-demo-thumbnail.jpg" alt="FYP Robot Thumbnail" width="100%">
   </div>
 
 </div>
@@ -125,24 +123,25 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
 
 ### 🔧 Technical Stack
 
-| Module | Technology |
-|--------|------------|
-| OS     | Ubuntu Server 22.04 |
-| Framework | ROS 2 Humble |
-| Vision | YOLOv8 + OpenCV |
-| Control | PS5 DualSense + teleop_twist_joy |
-| GUI    | PyQt5 |
-| Hardware | TurtleBot3 Waffle Pi + OpenMANIPULATOR-X + Intel RealSense |
+| Module     | Technology |
+|------------|------------|
+| OS         | Ubuntu Server 22.04 |
+| Framework  | ROS 2 Humble |
+| Navigation | SLAM Toolbox, Nav2 |
+| Vision     | YOLOv8 (Ultralytics) + OpenCV |
+| Control    | ✅ Manual: PS5 DualSense via `teleop_twist_joy`<br>✅ Autonomous: Navigation goals + vision-based pick/place |
+| GUI        | PyQt5 Interface |
+| Hardware   | TurtleBot3 Waffle Pi + OpenMANIPULATOR-X + Intel RealSense |
 
 ---
 
 ### 📌 Highlights
 
-- ✅ Custom machine vision alignment before pick (VisionAlignment node)
-- ✅ Automatic scene capture & YOLOv8 result saving
-- ✅ Full-body movement with joystick + rotation via L2/R2
-- ✅ Object-dependent gripping force based on label class
-- ✅ Cycle automation + repeat logic built into GUI interface
+- ✅ Autonomous navigation to pre-defined zones (Set 1 → Set 2/3 → Set 4 → loop)
+- ✅ Machine vision label classification & alignment before pick
+- ✅ Adaptive grip force based on detected item class
+- ✅ Manual override anytime via PS5 controller
+- ✅ Visual status, camera output, and control available through custom PyQt5 GUI
 
 ### 2024: 
 - <div style="display: flex; align-items: flex-start;">
