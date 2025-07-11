@@ -192,6 +192,7 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
   - Testing: Conducted real-time application testing.
 
 ### 2022 – Present: 
+![Robocon 2025](https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/blob/main/1672248-universal-robots.png)
 - **ROBOCON Malaysia (Software Department)**
     - **Robot Control System:** Developed omni-wheel and swerve drive navigation systems with real-time PID control for precise movement and heading stabilization.
     - **Brushless Motor Integration:** Integrated high-performance brushless motors (e.g., N5065, RoboMaster C3508, M2006) with custom PID tuning for velocity and position control.
