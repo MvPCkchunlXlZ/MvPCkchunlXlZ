@@ -192,30 +192,50 @@ I am a passionate Software and Automation Developer dedicated to advancing robot
   - Testing: Conducted real-time application testing.
 
 ### 2022 – 2025: 
+
 <img src="https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/raw/main/WhatsApp%20Image%202025-06-20%20at%2017.30.38_bbfb783b.jpg" alt="Robocon 2025" width="600" />
 
-- **ROBOCON Malaysia (Software Department)**
-    - **Robot Control System:** Developed omni-wheel and swerve drive navigation systems with real-time PID control for precise movement and heading stabilization.
-    - **Brushless Motor Integration:** Integrated high-performance brushless motors (e.g., N5065, RoboMaster C3508, M2006) with custom PID tuning for velocity and position control.
-    - **Embedded Systems:** Built ARM-based embedded systems using FreeRTOS, supporting modular motor control, sensor fusion, and CAN communication.
-    - **Kinematics:** Designed and implemented both forward and inverse kinematics algorithms for multi-joint mechanical actuators, including a custom 3-DOF Stewart platform.
-    - **Stewart Platform Control:** Developed embedded algorithms to control a 3-DOF Stewart platform for X, Y translation and yaw rotation, used for precise directional targeting (e.g., basketball shooting robot).
-    - **Image Processing:** Deployed Python-based vision systems on Jetson Nano and Raspberry Pi for color tracking, line following, and object identification.
-    - **Machine Learning:** Trained and deployed ML models for object detection, classification, and distance estimation in autonomous tasks.
-    - **Robot GUI:** Developed a graphical user interface (GUI) for real-time control, diagnostics, and telemetry visualization of the robot system.
+- **ROBOCON Malaysia**
+  - **2022:** Achieved 3rd place in Malaysia.  
+  - **2023:** Ranked Top 8 in Malaysia.  
+  - **2025:**  
+    - USM Team A: 3rd place & Best Team Award  
+    - USM Team B: 4th place  
+  - **Role:** Software HOD in All ROBOCON teams.
 
-- **ROBOCON Malaysia (Mechanical Department)**
-  - Robot Design: Developed robot designs in SolidWorks for CNC, laser cutting, and 3D printing.
+- **Technical Contributions (ROBOCON 2022 - 2025):**  
+  - **Robot Control System:** Developed omni-wheel and swerve drive navigation systems with real-time PID control for precise movement and heading stabilization.  
+  - **Brushless Motor Integration:** Integrated high-performance brushless motors (e.g., N5065, RoboMaster C3508, M2006) with custom PID tuning for velocity and position control.  
+  - **Embedded Systems:** Built ARM-based embedded systems using FreeRTOS, supporting modular motor control, sensor fusion, and CAN communication.  
+  - **Kinematics:** Designed and implemented both forward and inverse kinematics algorithms for multi-joint mechanical actuators, including a custom 3-DOF Stewart platform.  
+  - **Stewart Platform Control:** Developed embedded algorithms to control a 3-DOF Stewart platform for X, Y translation and yaw rotation, used for precise directional targeting (e.g., basketball shooting robot).  
+  - **Image Processing:** Deployed Python-based vision systems on Jetson Nano and Raspberry Pi for color tracking, line following, and object identification.  
+  - **Machine Learning:** Trained and deployed ML models for object detection, classification, and distance estimation in autonomous tasks.  
+  - **Robot GUI:** Developed a graphical user interface (GUI) for real-time control, diagnostics, and telemetry visualization of the robot system.
+
+- **ROBOCON Malaysia (Mechanical Department):**  
+  - Robot Design: Developed robot designs in SolidWorks for CNC, laser cutting, and 3D printing.  
   - Mechanism Fabrication: Designed, fabricated, and modified robot components.
 
-### 2023: 
-- **UROCK 2023 (Legged and Rope Climbing Robots)**
-  - Legged Robot Design: Modeled robot structures in SolidWorks.
+---
+
+### 2023:
+
+<img src="https://github.com/MvPCkchunlXlZ/MvPCkchunlXlZ/raw/main/499170122_2946009118904976_7687784048594053634_n.jpg" alt="UROCK 2023" width="600" />
+
+- **UROCK 2023 (Legged and Rope Climbing Robots):**  
+  - Team A: 1st place  
+  - Team B: 3rd place  
+  - **Role:** Team Leader for both teams.  
+  - Legged Robot Design: Modeled robot structures in SolidWorks.  
   - Control Systems: Implemented PID control for movement.
 
-- **RF-Based Home Automation**
+- **RF-Based Home Automation:**  
   - Microcontroller Interface: Developed an Assembly-based interface for 8051 microcontroller.
 
-- **IoT System: Used ESP32 for Wi-Fi access, controlling home gadgets remotely.**
-  - Automatic Waste Sorting Machine (PLC)
-  - Automation Process: Built a waste sorting machine using Omron CJ2M PLC with HMI.
+- **IoT System:**  
+  - Used ESP32 for Wi-Fi access, controlling home gadgets remotely.
+
+- **Automatic Waste Sorting Machine (PLC):**  
+  - Built a waste sorting machine using Omron CJ2M PLC with HMI.
+
